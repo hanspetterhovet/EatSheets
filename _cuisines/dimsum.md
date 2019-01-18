@@ -89,7 +89,7 @@ dishes:
       - zh-CN
     image: 440px-Egg_Tarts_with_Puff_Pastry.jpg
     wikipedia_en: https://en.wikipedia.org/wiki/Egg_tart
-    summary: small baked pastry filled with egg custard
+    summary: small baked pastry crust filled with egg custard. Related to the Portuguese Pastel de Nata
     dietary_restrictions: 🍞🥛🥚
     
   - name: 煎堆 or 芝麻球 (sesame ball)
